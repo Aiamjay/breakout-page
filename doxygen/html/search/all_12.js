@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['r_2988',['r',['../glad_8h.html#abe08814c2f72843fde4d8df41440d5a0',1,'glad.h']]],
+  ['radius_2989',['radius',['../class_ball_object.html#a76d309d437ef0a6b2cda9a38fb2b369e',1,'BallObject']]],
+  ['range_2990',['range',['../glad_8h.html#a73b00379db2c7ac5e30a3aa2954a50ee',1,'glad.h']]],
+  ['read_2991',['read',['../structstbi__io__callbacks.html#a623e46b3a2a019611601409926283a88',1,'stbi_io_callbacks']]],
+  ['readme_2emd_2992',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['readoffset_2993',['readOffset',['../glad_8h.html#a11d94888acbeffbdc587155c0576417d',1,'glad.h']]],
+  ['ref_2994',['ref',['../glad_8h.html#a083de4c8e32ad3d9059245f26be721de',1,'glad.h']]],
+  ['render_2995',['Render',['../class_game.html#a0897730fc9fed789f6c0f11d21a0c14a',1,'Game']]],
+  ['render_2996',['render',['../class_effect_process.html#a2dc6dbdcd388b5df9e33f6c54c02a392',1,'EffectProcess']]],
+  ['renderbuffer_2997',['renderbuffer',['../glad_8h.html#a065ecbf0bfaaefcafcc191ff33481bec',1,'glad.h']]],
+  ['renderbuffers_2998',['renderbuffers',['../glad_8h.html#aa17b802a0d8dde64cb30f5d887be5a22',1,'glad.h']]],
+  ['renderbuffertarget_2999',['renderbuffertarget',['../glad_8h.html#ad4ca76f1378b4a8be4243761c8df68e6',1,'glad.h']]],
+  ['rendertext_3000',['renderText',['../class_text_renderer.html#ae0414c8413307d0fa6b39c2c93bbe931',1,'TextRenderer']]],
+  ['reset_3001',['reset',['../class_ball_object.html#a1e0c87f03dd0fb4bb1ccbea56e0fbb9a',1,'BallObject::reset()'],['../class_effect_process.html#adbb31ec1dc7d8446dff765e96645860f',1,'EffectProcess::reset()']]],
+  ['resetgame_3002',['resetGame',['../class_game.html#a47c726a80fd133c0a4f6b8fba56d8832',1,'Game']]],
+  ['resetlevel_3003',['resetLevel',['../class_game_level.html#a7db4c402b9c85fdf2ee641b4182767fb',1,'GameLevel']]],
+  ['resetplayers_3004',['resetPlayers',['../class_game.html#a101a2d3def5c77cf99fec8c0e9a1bd17',1,'Game']]],
+  ['residences_3005',['residences',['../glad_8h.html#a0058cff9dc7ae56534241571ecd631b3',1,'glad.h']]],
+  ['resourcemanager_3006',['ResourceManager',['../class_resource_manager.html',1,'']]],
+  ['resourcemanager_2eh_3007',['ResourceManager.h',['../_resource_manager_8h.html',1,'']]],
+  ['restlives_3008',['restLives',['../class_game.html#a73062fe744605886312fb2751666d117',1,'Game']]],
+  ['right_3009',['right',['../glad_8h.html#ab412e67df941b4600c352b0b9e76d2ee',1,'glad.h']]],
+  ['right_3010',['RIGHT',['../_game_8h.html#a224b9163917ac32fc95a60d8c1eec3aaaec8379af7490bb9eaaf579cf17876f38',1,'Game.h']]],
+  ['rotation_3011',['rotation',['../class_game_object.html#a588e9d8af0aa5015770e9fa5e24b2505',1,'GameObject']]]
+];

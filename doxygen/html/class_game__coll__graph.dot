@@ -1,0 +1,24 @@
+digraph "Game"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Game",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" text" ,fontname="Helvetica"];
+  Node2 [label="TextRenderer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_text_renderer.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" shader" ,fontname="Helvetica"];
+  Node3 [label="Shader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_shader.html",tooltip=" "];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" lostWinGame\nmenu\nplayer" ,fontname="Helvetica"];
+  Node4 [label="GameObject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_game_object.html",tooltip=" "];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" sprite" ,fontname="Helvetica"];
+  Node5 [label="Texture2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_texture2_d.html",tooltip=" "];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" particles" ,fontname="Helvetica"];
+  Node6 [label="ParticleGenerator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_particle_generator.html",tooltip=" "];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" effects" ,fontname="Helvetica"];
+  Node7 [label="EffectProcess",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_effect_process.html",tooltip=" "];
+  Node3 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" effectShader" ,fontname="Helvetica"];
+  Node5 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" texture" ,fontname="Helvetica"];
+  Node8 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" ball" ,fontname="Helvetica"];
+  Node8 [label="BallObject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_ball_object.html",tooltip=" "];
+  Node4 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}
